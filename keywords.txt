@@ -1,0 +1,14 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CharlieGroups	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+lightOne	KEYWORD2
+lightGroup	KEYWORD2
+startGroup	KEYWORD2
+continueGroup	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
